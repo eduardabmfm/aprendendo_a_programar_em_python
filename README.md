@@ -1,7 +1,7 @@
 <h1> Aprendendo a programar em Python </h1>
 <h2>
   Instituição: 
-  <a href="https://www.exemplo.com" title="Samsung Ocean e UEA (Universidade Estadual do Amazonas)">
+  <a href="https://oceanbrasil.com/atividades/4921-Aprendendo-a-programar-em-Python" title="Samsung Ocean e UEA (Universidade Estadual do Amazonas)">
     Samsung Ocean e UEA (Universidade Estadual do Amazonas)
   </a>
 </h2>
